@@ -1,0 +1,17 @@
+{
+  "name": "ol3-google-maps-dist",
+  "version": "1.7.1",
+  "description": "Ol3 Google Maps full build",
+  "main": "olgm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bituls/ol3-google-maps-dist.git"
+  },
+  "keywords": [
+    "ol3-google-maps",
+    "olgm"
+  ]
+}
